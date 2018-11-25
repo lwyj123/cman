@@ -1,0 +1,11 @@
+
+  Foo description
+
+  USAGE
+
+    multi-root foo [name]
+
+  PARAMETERS
+
+    name - Some name
+

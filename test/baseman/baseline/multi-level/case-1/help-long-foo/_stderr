@@ -1,0 +1,11 @@
+
+  Foo description
+
+  USAGE
+
+    multi-level foo [name]
+
+  PARAMETERS
+
+    name - Some name
+

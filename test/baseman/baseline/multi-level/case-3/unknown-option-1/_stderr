@@ -1,0 +1,17 @@
+ERR Unknown option flag "x".
+
+  Foo bar
+
+  USAGE
+
+    multi-level [name]
+
+  PARAMETERS
+
+    name - Some name
+
+  SUBCOMMANDS
+
+    foo - Overridden foo brief
+    bar - Bar description     
+

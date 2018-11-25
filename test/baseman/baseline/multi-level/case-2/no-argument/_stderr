@@ -1,0 +1,10 @@
+
+  USAGE
+
+    multi-level <subcommand>
+
+  SUBCOMMANDS
+
+    bar
+    foo - Foo brief
+

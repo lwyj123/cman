@@ -1,0 +1,10 @@
+
+  USAGE
+
+    multi-level bar <subcommand>
+
+  SUBCOMMANDS
+
+    biu     [b,iu] - Overridden biu brief
+    pia-pia [pia]  - Pia                 
+

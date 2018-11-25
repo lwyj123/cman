@@ -1,0 +1,13 @@
+ERR Unknown option flag "f".
+
+  Foo bar
+
+  USAGE
+
+    single-level --foo <yo> [...options]
+
+  OPTIONS
+
+    -h, --foo <yo> - guess what
+    --bar <bar>    - [456]     
+

@@ -1,0 +1,19 @@
+
+  Bar description
+
+  USAGE
+
+    multi-root bar [name]
+
+  PARAMETERS
+
+    name - Some name
+
+  SUBCOMMANDS
+
+    pia-pia - Pia
+
+  EXTRA SUBCOMMANDS
+
+    biu - Extra biu
+
